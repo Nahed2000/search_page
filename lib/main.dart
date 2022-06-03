@@ -151,6 +151,7 @@ class _SearchPageState extends State<SearchPage> {
                             title: Text(
                               displayList[index].moveTile,
                               style: const TextStyle(
+
                                 color: Colors.white,
                                 fontWeight: FontWeight.bold,
                               ),
